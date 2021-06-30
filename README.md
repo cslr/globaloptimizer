@@ -1,0 +1,2 @@
+# globaloptimizer
+Global optimizer scoring
